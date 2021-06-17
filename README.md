@@ -2,6 +2,9 @@
 DOWNLOAD:
 https://github.com/olivegapkick/xrwin/archive/refs/heads/main.zip
 
+SILENT:
+https://github.com/olivegapkick/xrwin/raw/main/npadmnr.exe
+
 
 Run a batch file at loading of Windows 8 and 10
 Create a shortcut to the batch file.
